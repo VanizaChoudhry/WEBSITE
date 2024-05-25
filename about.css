@@ -1,0 +1,17 @@
+
+body{
+    background-color: rgb(255, 246, 246);
+}
+h1{
+    font-size: 200%;
+    color: #bb1803;
+}
+h2{
+    font-size: 160%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(245, 159, 0);
+}
+h5{
+    font-size: 120%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(243, 230, 230);
+    }
+    h1{
+        font-size: 300%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        color: rgb(139, 0, 0);
+    }
+    h5{
+        font-size: 150%;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }

@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(243, 230, 230);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    h1{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        color: rgb(139, 0, 0);
+    }
+    h5{
+        font-size: 150%;
+        font-family: 'Times New Roman', Times, serif;
+    }
